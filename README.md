@@ -1,5 +1,5 @@
 # Data-Science-Capstone
-All labs from the final couse in IBM Data Science Certification 
+All labs from the final project in the IBM Data Science Certification 
 
 Title: Winning the Space Race with Data Science
 
