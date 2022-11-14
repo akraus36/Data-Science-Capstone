@@ -1,6 +1,8 @@
 # Data-Science-Capstone
 All labs from the final project in the IBM Data Science Certification 
 
+Project was done using IBM Watson Studio
+
 Title: Winning the Space Race with Data Science
 
 Link to powerpoint presentation below
